@@ -26,7 +26,7 @@ messages = [</br>
 ```bash
 
 # 进入项目目录
-cd vue-admin-template
+cd vue-message-demo
 
 # 安装依赖
 npm install
